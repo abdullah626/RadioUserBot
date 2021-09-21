@@ -36,7 +36,7 @@ RADIO ="""INDIAN  Radio stations:
 
 If you Know any radio Station  Please Contact to   @AwesomeSupport we will add it.
 
-ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /radio <Station Number> ʟɪᴋᴇ /radio 1
+ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /station <Station Number> ʟɪᴋᴇ /station 1
 ᴛᴏ ᴇɴᴅ and ꜱᴛᴏᴘ ꜱᴛʀᴇᴀᴍ by /end ᴄᴏᴍᴍᴀɴᴅ  for any help join  @AwesomeSupport"""
 
 
