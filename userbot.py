@@ -28,13 +28,13 @@ RADIO ="""INDIAN  Radio stations:
 
 4. https://radioindia.net/radio/hungamanow/icecast.audio
 
-5. http://node-09.zeno.fm/3u5yu2u8grquv
+5. https://radioindia.in/air-vividh-bharati
 
 6. https://node-31.zeno.fm/9msu0vbxezzuv
 
 7. https://prclive1.listenon.in/Hindi
 
-8. https://radioindia.in/air-vividh-bharati
+
 If you Know any radio Station  Please Contact to   @AwesomeSupport we will add it.
 
 ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /station <Station Number> ʟɪᴋᴇ /station 1
