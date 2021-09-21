@@ -34,7 +34,7 @@ RADIO ="""INDIAN  Radio stations:
 
 7. https://prclive1.listenon.in/Hindi
 
-8. https://www.radioindia.in/air-vividh-bharati
+8. https://radioindia.in/air-vividh-bharati
 If you Know any radio Station  Please Contact to   @AwesomeSupport we will add it.
 
 ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /station <Station Number> ʟɪᴋᴇ /station 1
