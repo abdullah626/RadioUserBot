@@ -34,11 +34,14 @@ RADIO ="""INDIAN  Radio stations:
 
 7. https://prclive1.listenon.in/Hindi
 
+8. http://radio.garden/listen/radio-sugar-90-8-crs/JJjaMMrY
 
-If you Know any radio Station  Please Contact to   @AwesomeSupport we will add it.
+9. http://radio.garden/listen/hindi-christian-radio/zmE3xziv
+
+If you Know any radio Station  Please Contact to   @i_Ajit we will add it.
 
 ᴛᴏ ꜱᴛᴀʀᴛ ʀᴇᴘʟᴀʏ ᴛᴏ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪᴛʜ ᴄᴏᴍᴍᴀɴᴅ /station <Station Number> ʟɪᴋᴇ /station 1
-ᴛᴏ ᴇɴᴅ and ꜱᴛᴏᴘ ꜱᴛʀᴇᴀᴍ by /end ᴄᴏᴍᴍᴀɴᴅ  for any help join  @AwesomeSupport"""
+ᴛᴏ ᴇɴᴅ and ꜱᴛᴏᴘ ꜱᴛʀᴇᴀᴍ by /end ᴄᴏᴍᴍᴀɴᴅ  for any help join  @i_Ajit"""
 
 
 GROUP_CALLS = {}
